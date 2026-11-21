@@ -4,7 +4,7 @@ I'm a dedicated **Full Stack Web Developer** with 5 years of experience building
 
 - 🔭 Currently building **OrderFlow**, a full-stack inventory and order management system.
 - 🌱 Currently learning **Python** to expand my backend versatility and scripting skills.
-- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/angel-gabriel-altuna-811358450)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/angel-gabriel-altuna-811358450)
 
 ---
 
